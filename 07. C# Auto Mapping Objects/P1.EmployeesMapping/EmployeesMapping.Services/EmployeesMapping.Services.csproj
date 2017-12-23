@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Automapper.Extensions.Microsoft.DependencyInjection" Version="3.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeesMapping.DtoModel\EmployeesMapping.DtoModel.csproj" />
+    <ProjectReference Include="..\P1.EmployeesMapping.Data\P1.EmployeesMapping.Data.csproj" />
+    <ProjectReference Include="..\P1.EmployeesMapping.Model\P1.EmployeesMapping.Model.csproj" />
+  </ItemGroup>
+
+</Project>
