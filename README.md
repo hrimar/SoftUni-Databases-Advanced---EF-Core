@@ -31,5 +31,5 @@ https://softuni.bg/trainings/1741/databases-advanced-entity-framework-october-20
 
 * [Exam preparation - Instagraph](https://github.com/hrimar/SoftUni-Databases-Advanced---EF-Core/tree/master/Exam%20Prep%201%20-%20Instagraph/11.%20DB-Adv-EF-Core-ExamPrep1-Instagraph-Skeleton)
 * [Exam preparation - Stations](https://github.com/hrimar/SoftUni-Databases-Advanced---EF-Core/tree/master/Exam%20Prep%202%20-%20Station/11.%20DB-Advanced-EF-Core-ExamPrep2-Stations-Skeleton)
-* [Exam preparation - Instagraph with annotations]()
-* [Exam 10th Dec 2017 - FastFood](https://github.com/hrimar/SoftUni-Databases-Advanced---EF-Core/tree/master/Exam%2010-12-2017)
+* [Exam preparation - Instagraph with annotations](https://github.com/hrimar/SoftUni-Databases-Advanced---EF-Core/tree/master/Exam%20Prep%201%20Instagraph%20with%20Attributes/11.%20DB-Adv-EF-Core-ExamPrep1-Instagraph-Skeleton)
+* [Exam 10th Dec 2017 - FastFood](https://github.com/hrimar/SoftUni-Databases-Advanced---EF-Core/tree/master/Exam%2010-12-2017/01.%20Model%20Project%20Skeleton)
