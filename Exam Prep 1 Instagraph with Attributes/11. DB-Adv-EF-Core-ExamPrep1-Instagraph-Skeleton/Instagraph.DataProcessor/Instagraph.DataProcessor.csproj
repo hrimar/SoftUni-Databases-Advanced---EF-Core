@@ -5,13 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="6.2.1" />
+    <PackageReference Include="Automapper" Version="6.0.2" />
     <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FastFood.Data\FastFood.Data.csproj" />
-    <ProjectReference Include="..\FastFood.Models\FastFood.Models.csproj" />
+    <ProjectReference Include="..\Instagraph.Data\Instagraph.Data.csproj" />
+    <ProjectReference Include="..\Instagraph.Models\Instagraph.Models.csproj" />
   </ItemGroup>
 
 </Project>
